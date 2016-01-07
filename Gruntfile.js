@@ -12,6 +12,9 @@ module.exports = function(grunt) {
                 'jquery',
                 'bootstrap'
                 ],
+                mainFiles: {
+                          bootstrap: ['dist/css/bootstrap.css','dist/js/bootstrap.js']
+                },
                 dependencies: {
                     'underscore': 'jquery',
                     'jquery-mousewheel': 'jquery',
