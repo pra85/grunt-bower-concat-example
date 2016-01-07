@@ -1,0 +1,24 @@
+{
+  "name": "grunt-bower-concat-example",
+  "version": "1.0.0",
+  "description": "Example usage of Grunt Bower concat plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pra85/grunt-bower-concat-example.git"
+  },
+  "keywords": [
+    "grunt",
+    "bower",
+    "concat"
+  ],
+  "author": "Prayag Verma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pra85/grunt-bower-concat-example/issues"
+  },
+  "homepage": "https://github.com/pra85/grunt-bower-concat-example#readme",
+  "devDependencies": {
+    "grunt-bower-concat": "^0.6.0",
+    "grunt": "^0.4.5"
+  }
+}
